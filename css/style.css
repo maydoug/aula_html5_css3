@@ -1,0 +1,33 @@
+body{
+    background:#2A2928 ;
+    margin-left: 350px ;
+    margin-right: 350px ;
+}
+header {
+    margin-top: 50px;
+}
+footer {
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: whitesmoke ;
+    font-family: fantasy;
+}
+h2 {
+    color: #839192 ;
+    font-family: fantasy;
+}
+p {
+    color: whitesmoke; 
+    font-size: 18px ;
+    font-family: 'Lucida Sans Regular' ;
+}
+
+.img_padrao {
+    margin-bottom: 30px;
+    width: 600px ; 
+}
+.logos{
+    width: 55px ;
+}
